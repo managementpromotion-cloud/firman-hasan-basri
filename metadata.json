@@ -1,0 +1,8 @@
+{
+  "name": "Remix Firman",
+  "description": "Website portofolio modern dan profesional dengan profil, galeri proyek, daftar keahlian, dan formulir kontak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
